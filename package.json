@@ -1,0 +1,15 @@
+{
+  "name": "mlkcca-google-spreadsheet",
+  "version": "0.0.1",
+  "description": "milkcocoa's data exporter for GoogleSpreadSheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "n0bisuke",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "m4gss": "bin/m4gss"
+  }
+}
